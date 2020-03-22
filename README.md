@@ -1,6 +1,6 @@
 # instagram_clone
 
-A new Flutter project.
+Facing Problems? contact me at   [LinkedIn](https://www.linkedin.com/in/zeeshu-x-5190b41a1/) i am always happy to help;
 
 ## Getting Started
 
